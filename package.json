@@ -1,0 +1,17 @@
+{
+  "name": "vue.js-3-fundamentals-with-the-composition-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lera2022/Vue.js-3-Fundamentals-with-the-Composition-API.git"
+  },
+  "private": true,
+  "dependencies": {
+    "vue": "^3.5.13"
+  }
+}
